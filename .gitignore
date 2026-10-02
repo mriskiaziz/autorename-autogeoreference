@@ -21,7 +21,11 @@ env/
 
 # Ignore generated output
 output/
+auto-georeference-wss.zip
+
 
 # Ignore system-specific files
 .DS_Store
 Thumbs.db
+
+
