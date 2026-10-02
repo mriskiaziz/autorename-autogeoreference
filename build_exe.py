@@ -16,7 +16,7 @@ def fast_get_imports(filename, search_paths=None):
         return set()
     try:
         p = Path(filename)
-        if p.is_file() and p.stat().st_size > 20 * 1024 * 1024:
+        if p.is_file() and p.stat().st_size > 150 * 1024 * 1024:
             return set()
     except Exception:
         pass
@@ -28,7 +28,7 @@ def fast_get_imports_pefile(filename, search_paths=None, *args, **kwargs):
         return set()
     try:
         p = Path(filename)
-        if p.is_file() and p.stat().st_size > 20 * 1024 * 1024:
+        if p.is_file() and p.stat().st_size > 150 * 1024 * 1024:
             return set()
     except Exception:
         pass
