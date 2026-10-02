@@ -1,8 +1,8 @@
 # WSS Tool — Rename & Georeferensi Otomatis
 
-[![Latest Release](https://img.shields.io/github/v/release/mriskiaziz/auto-georeference-wss?style=flat-square&color=blue&logo=github)](https://github.com/mriskiaziz/auto-georeference-wss/releases/latest)
-[![Release Downloads](https://img.shields.io/github/downloads/mriskiaziz/auto-georeference-wss/latest/total?style=flat-square&color=2ea44f)](https://github.com/mriskiaziz/auto-georeference-wss/releases/latest)
-[![Total Downloads](https://img.shields.io/github/downloads/mriskiaziz/auto-georeference-wss/total?style=flat-square&color=0366d6)](https://github.com/mriskiaziz/auto-georeference-wss/releases)
+[![Latest Release](https://img.shields.io/github/v/release/mriskiaziz/auto-georeference-wss?style=flat-square&color=blue&logo=github)](https://github.com/mriskiaziz/autorename-autogeoreference/releases/tag/v1.0.0)
+[![Release Downloads](https://img.shields.io/github/downloads/mriskiaziz/auto-georeference-wss/latest/total?style=flat-square&color=2ea44f)](https://github.com/mriskiaziz/autorename-autogeoreference/releases/tag/v1.0.0)
+[![Total Downloads](https://img.shields.io/github/downloads/mriskiaziz/auto-georeference-wss/total?style=flat-square&color=0366d6)](https://github.com/mriskiaziz/autorename-autogeoreference/releases/tag/v1.0.0)
 [![Status](https://img.shields.io/badge/status-production-success?style=flat-square)](https://github.com/mriskiaziz/auto-georeference-wss)
 [![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Visitors](https://komarev.com/ghpvc/?username=mriskiaziz-auto-georeference-wss&style=flat-square&color=blue&label=Visitors)](https://github.com/mriskiaziz/auto-georeference-wss)
